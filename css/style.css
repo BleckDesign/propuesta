@@ -44,7 +44,7 @@ body {
     margin-bottom: 20px;
 }
 
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1250px) {
     .master {
         flex-wrap: wrap;
     }
